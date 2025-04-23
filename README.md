@@ -1,4 +1,4 @@
-[![profile](https://github-readme-stats.vercel.app/api?username=yumosx)]()
+[![yumosx](https://github-readme-stats.vercel.app/api?username=yumosx&theme=dracula)]()
 <!--
 **yumosx/yumosx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
