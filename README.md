@@ -1,4 +1,4 @@
-## Hi there, I’m Ian (@yumosx) 👋
+## Hi there, I’m Ian Wang (@yumosx) 👋
 
 Gopher • OpenTelemetry CNCF member • Open-source addict  
 
